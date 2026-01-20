@@ -1,8 +1,6 @@
 ### About Me
 
-I am **Likai Yang**, currently pursuing an M.Eng. degree in Software Engineering at Guangxi Normal University. I received my B.S. degree from Yangtze University, Jingzhou, China, in 2023.
-
-My research interests lie in **image and video processing** and **computer vision**.
+**Likai Yang** received the B.S. degree from Yangtze University, Jingzhou, China, in 2023. He is currently pursuing the M.Eng. degree in Software Engineering at Guangxi Normal University. His research interests include **image and video processing**, and **computer vision**.
 
 ### Selected Publication
 
