@@ -4,7 +4,7 @@
 
 ### Publications
 
-**†** *Equal contribution*
+**†** *Equal contribution*  
 **\*** *Corresponding author*
 
 - **Likai Yang†, Nianqiao Li†, Xiaoping Liang, Lv Chen, Zhenjun Tang\***  
