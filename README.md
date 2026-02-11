@@ -4,7 +4,9 @@
 
 ### Publications
 
-**†** *Equal contribution;* **\*** *Corresponding author.*
+**†** *Equal contribution*
+
+**\*** *Corresponding author*
 
 - **Likai Yang†, Nianqiao Li†, Xiaoping Liang, Lv Chen, Zhenjun Tang\***  
   *Video Hashing via a Mamba-Transformer Network for Retrieval*  
