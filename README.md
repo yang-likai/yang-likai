@@ -12,5 +12,5 @@
   **MMM 2026** [[DOI](https://doi.org/10.1007/978-981-95-6957-1_8)]
 
 - **Lixia Du, Xiaoping Liang, Likai Yang, Zhenjun Tang\***  
-  *Structure-preserving video hashing via self-supervised transformer for retrieval*  
+  *Structure-Preserving Video Hashing via Self-Supervised Transformer for Retrieval*  
   **ICASSP 2025** [[DOI](https://doi.org/10.1109/ICASSP49660.2025.10889100)]
