@@ -9,8 +9,8 @@
 
 - **Likai Yang†, Nianqiao Li†, Xiaoping Liang, Lv Chen, Zhenjun Tang\***  
   *Video Hashing via a Mamba-Transformer Network for Retrieval*  
-  **MMM 2026** [[DOI](https://doi.org/10.1007/978-981-95-6957-1_8)]
+  **International Conference on MultiMedia Modeling (MMM) 2026** [[DOI](https://doi.org/10.1007/978-981-95-6957-1_8)]
 
 - **Lixia Du, Xiaoping Liang, Likai Yang, Zhenjun Tang\***  
   *Structure-Preserving Video Hashing via Self-Supervised Transformer for Retrieval*  
-  **ICASSP 2025** [[DOI](https://doi.org/10.1109/ICASSP49660.2025.10889100)]
+  **IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025** [[DOI](https://doi.org/10.1109/ICASSP49660.2025.10889100)]
