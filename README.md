@@ -4,7 +4,7 @@
 
 ### Selected Publication
 
-*\* denotes corresponding author; † denotes co-first author.*
+**\*** *denotes corresponding author;* **†** *denotes co-first author.*
 
 - **Lixia Du, Xiaoping Liang, Likai Yang, Zhenjun Tang\***  
   *Structure-preserving video hashing via self-supervised transformer for retrieval*  
