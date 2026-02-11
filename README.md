@@ -6,4 +6,4 @@
 
 - **Lixia Du, Xiaoping Liang, Likai Yang, Zhenjun Tang\***  
   *Structure-preserving video hashing via self-supervised transformer for retrieval*  
-  **ICASSP 2025** [[DOI](https://doi.org/10.1109/ICASSP49355.2025.12345678)](https://doi.org/10.1109/ICASSP49355.2025.12345678)
+  **ICASSP 2025** [[DOI](https://doi.org/10.1109/ICASSP49660.2025.10889100)]
