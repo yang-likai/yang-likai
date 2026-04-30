@@ -7,6 +7,10 @@
 **†** *Equal contribution*  
 **\*** *Corresponding author*
 
+- **Likai Yang, Nianqiao Li, Yihua Chen, Zhenjun Tang\***  
+  *Video Hashing via Transformer and KAN for Retrieval*  
+  **IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026** [[DOI](https://doi.org/10.1109/ICASSP55912.2026.11463349)]
+
 - **Likai Yang†, Nianqiao Li†, Xiaoping Liang, Lv Chen, Zhenjun Tang\***  
   *Video Hashing via a Mamba-Transformer Network for Retrieval*  
   **International Conference on MultiMedia Modeling (MMM) 2026** [[DOI](https://doi.org/10.1007/978-981-95-6957-1_8)]
